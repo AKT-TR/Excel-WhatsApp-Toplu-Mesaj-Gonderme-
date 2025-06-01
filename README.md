@@ -7,6 +7,9 @@ Kullanıcı, Excel'de belirttiği numaralara tek tıkla toplu mesaj gönderimi y
 Çok fazla kişiye mesaj atmanız durumunda whatsapp tarafından numaranız spam olarak algılanıp engellenebilir. Lütfen bu konuya çok dikkat edin.
 Numara kısmını 90 ile başlayacak şekilde yazınız.
 
+⚠️ whatsapp web'in açık olması gerekiyor.
+
+
 ![mesaj gönderme](https://github.com/user-attachments/assets/0eed1506-8076-4816-b81f-253f226529e5)
 
 ---
